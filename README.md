@@ -49,7 +49,7 @@ This app doesn't need a server or an API key.
 - How to show text on the page with `innerText`
 - How to center a card on a full-page background image with CSS
 
-VIEW APP HERE: https://horoscope-qtgh.onrender.com/
+VIEW APP HERE: https://horoscope-qtgh.onrender.com
 ## Author
 
 Maya Rose 🌹
